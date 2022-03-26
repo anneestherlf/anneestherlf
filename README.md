@@ -1,4 +1,4 @@
-### oii!
+### oi!
 
 - 👩‍💻 cursando técnico em análise e desenvolvimento de sistemas
 - 📖 2º ano do ensino médio
