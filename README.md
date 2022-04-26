@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/anneestherlf">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneestherlf&layout=compact&langs_count=7&theme=nightowl"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneestherlf&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
     
   ##
