@@ -2,11 +2,8 @@
 
 - 👩‍💻 cursando técnico em análise e desenvolvimento de sistemas
 - 📖 2º ano do ensino médio
-
-##
-
 </div>
-    <h6> contate-me: </h6>
+    <h6> Contate-me: </h6>
   <div>    
   <a href = "mailto: anneestherlf10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://instagram.com/anneestherlf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
