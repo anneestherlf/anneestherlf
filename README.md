@@ -13,7 +13,7 @@
 <div align="center">
   <a href="https://github.com/anneestherlf">
   <img align="left" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anneestherlf&layout=compact&langs_count=7&theme=nightowl"/>
-  <img align="right" alt="glitter" src="https://media0.giphy.com/media/xT9IgzvnOyNDYnxeHS/200.gif" height="150" style="border-radius:50px;"
+  <img align="left" alt="glitter" src="https://media0.giphy.com/media/xT9IgzvnOyNDYnxeHS/200.gif" height="150" style="border-radius:50px;"
 </div>
     
   <div style="display: inline_block"><br>
