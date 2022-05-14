@@ -5,8 +5,8 @@
 </div>
     <h6> Contate-me: </h6>
   <div>    
-  <a href = "mailto: anneestherlf10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="25px"></a>
-    <a href="https://instagram.com/anneestherlf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="25px"></a>
+  <a href = "mailto: anneestherlf10@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" height="20px"></a>
+    <a href="https://instagram.com/anneestherlf" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" height="20px"></a>
 
 ##
 <div align="center">
