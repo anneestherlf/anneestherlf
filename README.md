@@ -1,6 +1,7 @@
 ## oi! meu nome é Anne
 - 👩‍💻 cursando técnico em análise e desenvolvimento de sistemas
-- 📖 2º ano do ensino médio
+- 📖 2º ano do ensino médio <br>
+ ೃ✧ currently studying: HTML and CSS 
 
 </div>
     <h6> Contate-me: </h6>
