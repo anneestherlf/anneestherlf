@@ -1,4 +1,4 @@
-## oi! meu nome é Anne
+## Oi! Meu nome é Anne
 - 👩‍💻 cursando técnico em análise e desenvolvimento de sistemas
 - 📖 2º ano do ensino médio <br>
  ೃ✧ constantly searching for knowledge
