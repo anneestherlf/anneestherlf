@@ -1,6 +1,6 @@
 ## Oi! Meu nome é Anne
 - 👩‍💻 cursando técnico em análise e desenvolvimento de sistemas
-- 📖 2º ano do ensino médio <br>
+- 📖 3º ano do ensino médio <br>
  ೃ✧ constantly searching for knowledge
 
 ##
