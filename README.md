@@ -1,6 +1,6 @@
 ## Oi! Meu nome é Anne
-- 👩‍💻 técnica em análise e desenvolvimento de sistemas
-- amo tecnologia e inovação!
+- 👩‍💻 técnica em análise e desenvolvimento de sistemas 
+- amo tecnologia e inovação! <br>
  ೃ✧ constantly searching for knowledge
 
 ##
