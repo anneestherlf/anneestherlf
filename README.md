@@ -1,4 +1,4 @@
-## Oi! Meu nome é Anne
+## Oi! Meu nome é Anne | Hi! My name is Anne
 - 👩‍💻 técnica em análise e desenvolvimento de sistemas 
 - 💡 amo tecnologia e inovação! <br>
  ೃ✧ constantly searching for knowledge
