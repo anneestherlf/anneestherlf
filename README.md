@@ -1,5 +1,6 @@
 ## Oi! Meu nome é Anne | Hi! My name is Anne
-- 👩‍💻 técnica em análise e desenvolvimento de sistemas 
+- 👩‍💻 técnica em análise e desenvolvimento de sistemas
+- 👩‍💻 graduanda em Ciência da Computação no Inteli
 - 💡 amo tecnologia e inovação! <br>
  ೃ✧ constantly searching for knowledge
 
