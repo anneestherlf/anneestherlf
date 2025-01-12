@@ -20,7 +20,12 @@
 
 ###
 
-<p align="left">- 👩‍💻 Graduanda em Ciência da Computação no INTELI (Turma de 2028)<br>- 👩‍💻 Técnica em Análise e Desenvolvimento de Sistemas (2023)<br>- 💡 Apaixonada por tecnologia e inovação <br>-  🧠 And constantly searching for knowledge!<br><br>Nessa jornada de constante busca pelo conhecimento, serei acompanhada pela minha buddy:<br><br>Thainá de Deus, estudante de Sistemas da Informação da turma de 2025 🚀</p>
+<p align="left">- 👩‍💻 Graduanda em Ciência da Computação no INTELI (Turma de 2028)<br>- 👩‍💻 Técnica em Análise e Desenvolvimento de Sistemas (2023)<br>- 💡 Apaixonada por tecnologia e inovação <br>-  🧠 And constantly searching for knowledge! </p>
+
+###
+
+<h3 align="left">Buddy:</h3>
+ <p> Nessa jornada, serei acompanhada por Thainá de Deus: estudante de Sistemas da Informação da turma de 2025 🚀</p>
 
 ###
 
