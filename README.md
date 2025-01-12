@@ -1,4 +1,4 @@
-<h1 align="center">Hey! It's Anne!</h3>
+<h1 align="center">Oi! Meu nome é Anne / Hi! My name is Anne</h1>
 
 ###
 
