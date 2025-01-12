@@ -1,4 +1,3 @@
-<h1 align="center">Oi! Meu nome é Anne | Hi! My name is Anne</h1>
 
 ###
 
@@ -65,7 +64,7 @@
 
 ###
 
-<p align="left">LindedIn: https://www.linkedin.com/in/anneestherlf/<br>E-mail: anne.figueiroa@sou.inteli.edu.br</p>
+<p align="left">LinkedIn: https://www.linkedin.com/in/anneestherlf/<br>E-mail: anne.figueiroa@sou.inteli.edu.br</p>
 
 ###
 
