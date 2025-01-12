@@ -69,7 +69,5 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/anneestherlf/anneestherlf/output/snake.svg" alt="Snake animation" />
 
-###
 
