@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">- 👩‍💻 Graduanda em Ciência da Computação no <a href="https://www.inteli.edu.br/" target="_blank">INTELI</a> (Turma de 2028)<br>- 👩‍💻 Técnica em Análise e Desenvolvimento de Sistemas (integrado ao Ensino Médio, 2023)<br>- 💡 Apaixonada por tecnologia e inovação <br>-  🧠 And constantly searching for knowledge! </p>
+<p align="left">- 👩‍💻 Graduanda em Ciência da Computação no <a href="https://www.inteli.edu.br/" target="_blank" rel="noopener noreferrer">INTELI</a> (Turma de 2028)<br>- 👩‍💻 Técnica em Análise e Desenvolvimento de Sistemas (integrado ao Ensino Médio, 2023)<br>- 💡 Apaixonada por tecnologia e inovação <br>-  🧠 And constantly searching for knowledge! </p>
 
 ###
 
