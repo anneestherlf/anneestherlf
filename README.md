@@ -8,7 +8,7 @@
 
 ###
 
-<h3 align="left">Curiosities:</h3>
+<h3 align="left">✧ Curiosities:</h3>
 
 ###
 
@@ -16,7 +16,7 @@
 
 ###
 
-<h3 align="left">About me:</h3>
+<h3 align="left">✧ About me:</h3>
 
 ###
 
@@ -24,12 +24,12 @@
 
 ###
 
-<h3 align="left">Buddy:</h3>
+<h3 align="left">✧ Buddy:</h3>
  <p> - Nessa jornada, serei acompanhada por <a href="https://github.com/thainadedeus" target="_blank">Thainá de Deus</a>: estudante de Sistemas de Informação da turma de 2025 🚀</p>
 
 ###
 
-<h3 align="left">My (projects) journey:</h3>
+<h3 align="left">✧ My (projects) journey:</h3>
 
 ###
 
@@ -37,7 +37,7 @@
 
 ###
 
-<h3 align="left">Main Tools:</h3>
+<h3 align="left">✧ Main Tools:</h3>
 
 ###
 
@@ -61,7 +61,7 @@
 
 ###
 
-<h3 align="left">Contacts:</h3>
+<h3 align="left">✧ Contacts:</h3>
 
 ###
 
