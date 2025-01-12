@@ -19,12 +19,12 @@
 
 ###
 
-<p align="left">- 👩‍💻 Graduanda em Ciência da Computação no INTELI (Turma de 2028)<br>- 👩‍💻 Técnica em Análise e Desenvolvimento de Sistemas (2023)<br>- 💡 Apaixonada por tecnologia e inovação <br>-  🧠 And constantly searching for knowledge! </p>
+<p align="left">- 👩‍💻 Graduanda em Ciência da Computação no <a href="https://www.inteli.edu.br/" target="_blank">INTELI</a> (Turma de 2028)<br>- 👩‍💻 Técnica em Análise e Desenvolvimento de Sistemas (integrado ao Ensino Médio, 2023)<br>- 💡 Apaixonada por tecnologia e inovação <br>-  🧠 And constantly searching for knowledge! </p>
 
 ###
 
 <h3 align="left">Buddy:</h3>
- <p> Nessa jornada, serei acompanhada por Thainá de Deus: estudante de Sistemas da Informação da turma de 2025 🚀</p>
+ <p> - Nessa jornada, serei acompanhada por <a href="https://github.com/thainadedeus" target="_blank">Thainá de Deus</a>: estudante de Sistemas de Informação da turma de 2025 🚀</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- ✏️ Alfabyte: durante o ensino médio, co-idealizei um aplicativo de alfabetização de jovens e adultos premiado pelo Desafio TACK. O prêmio foi uma viagem com tudo pago par participar da Brazil Conference at Harvard and MIT 2023 em Boston, EUA. Uma experiência enriquecedora onde pude conversar com grandes líderes brasileiros como Tabata Amaral e Luciano Huck.<br>- 🎮 Pacbuco: jogo inovador e didático sobre a cultura Pernambucana premiado 8º lugar no Gamejam Educa-PE;<br>- 🌎 Ubizu: projeto que visa democratizar o acesso ao conhecimento empreendedor nas escolas públicas premiado no programa Rise for the world 2024. Fui selecionada como finalista global dentre mais de 16.000 aplicações.</p>
+<p align="left">- ✏️ <a href="https://www.instagram.com/tabocatec/" target="_blank">Alfabyte</a>: durante o ensino médio, co-idealizei um aplicativo de alfabetização de jovens e adultos premiado pelo <a href="https://www.desafiotack.com.br/" target="_blank">Desafio TACK</a>. O prêmio foi uma viagem com tudo pago para participar da <a href="https://www.brazilconference.org/l/" target="_blank">Brazil Conference at Harvard and MIT</a> em Boston, EUA. Uma experiência enriquecedora onde pude conversar com grandes líderes brasileiros como Tabata Amaral e Luciano Huck.<br>- 🎮 <a href="https://github.com/anneestherlf/pacbuco-alpha" target="_blank">Pacbuco</a>: jogo inovador e didático sobre a cultura Pernambucana premiado 8º lugar no Gamejam Educa-PE;<br>- 🌎 <a href="https://ubizu.vercel.app/" target="_blank">Ubizu</a>: projeto que visa democratizar o acesso ao conhecimento empreendedor nas escolas públicas premiado no programa <a href="https://www.risefortheworld.org/" target="_blank">Rise for the world</a> 2024. Fui selecionada como finalista global dentre mais de 16.000 aplicações.</p>
 
 ###
 
@@ -71,3 +71,4 @@
 <img src="https://raw.githubusercontent.com/anneestherlf/anneestherlf/output/snake.svg" alt="Snake animation" />
 
 ###
+
