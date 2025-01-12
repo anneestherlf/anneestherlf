@@ -1,9 +1,9 @@
-<h3 align="center">Oi! Meu nome é Anne | Hi! My name is Anne</h3>
+<h1 align="center">Oi! Meu nome é Anne | Hi! My name is Anne</h1>
 
 ###
 
 <div align="center">
-  <img height="161" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhbnNvbSIsInRleHQiOiJXZWxjb21lJTIwdG8lMjBteSUyMEdpdEh1YiEiLCJwYWxldHRlIjoiMSwwLDMsMSwzLDEsMyw0LDMsMCwwLDIsNSwxLDEsNCwzLDMiLCJpYXQiOjE3MzY2NDA0MjB9.bIq388Q8b1NAv-kds9iUQq8fgaL9XmrrRRKfqAttdX4"  />
+  <img height="200" src="https://text.media.giphy.com/v1/media/giphy.gif?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJwcm9kLTIwMjAtMDQtMjIiLCJzdHlsZSI6InJhbnNvbSIsInRleHQiOiJXZWxjb21lJTIwdG8lMjBteSUyMEdpdEh1YiEiLCJwYWxldHRlIjoiMSwwLDMsMSwzLDEsMyw0LDMsMCwwLDIsNSwxLDEsNCwzLDMiLCJpYXQiOjE3MzY2NDA0MjB9.bIq388Q8b1NAv-kds9iUQq8fgaL9XmrrRRKfqAttdX4"  />
 </div>
 
 ###
