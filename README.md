@@ -16,7 +16,7 @@
 
 ###
 
-<p align="left">LinkedIn: https://www.linkedin.com/in/anneestherlf/<br>E-mail: anne.figueiroa@sou.inteli.edu.br</p>
+<p align="left">LinkedIn: https://www.linkedin.com/in/anneestherlf/<br>E-mail: anneestherlinsfigueiroa@gmail.com</p>
 
 ###
 
